@@ -36,11 +36,11 @@ function resultSum(a, b) {
     return `Tổng hai số là: ${a + b}`;
 }
 function resultSignal(a, b) {
-    return `Tổng hai số là: ${a - b}`;
+    return `Hiệu hai số là: ${a - b}`;
 }
 function resultAccumulation(a, b) {
-    return `Tổng hai số là: ${a * b}`;
+    return `Tích hai số là: ${a * b}`;
 }
 function resultThuong(a, b) {
-    return `Tổng hai số là: ${a / b}`;
+    return `Thương hai số là: ${a / b}`;
 }
